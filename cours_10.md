@@ -1,1 +1,1 @@
-images/Formation_02.pdf
+!images/Formation_02.pdf
