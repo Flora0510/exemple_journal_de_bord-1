@@ -4,7 +4,8 @@
 
 ### Le projet créatif
 [![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://youtu.be/VTgADEXQAGs)
-![Nom image](http://img.youtube.com/vi/NYWBSmB1zyc/0.jpg)
+
+[![Nom image](http://img.youtube.com/vi/NYWBSmB1zyc/0.jpg)](https://youtu.be/NYWBSmB1zyc) 
 
 
 ### L'analyse
